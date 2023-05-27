@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back To Book Store</name>
+   <tag></tag>
+   <elementGuidId>f9f328d5-ef22-4cc5-8135-511713bc8574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addNewRecordButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addNewRecordButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1b38ca9-fd53-4eff-919a-9e48de4e2b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addNewRecordButton</value>
+      <webElementGuid>8a0b7751-2f3f-4d42-bddf-c544ced43ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1180f46d-4350-4853-abff-bedc3fbc14a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>94587488-8414-436b-8386-94ee0b4775b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back To Book Store</value>
+      <webElementGuid>5ccc57fd-5a14-46b9-9b94-2059b9b4d252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;books-wrapper&quot;]/div[@class=&quot;profile-wrapper&quot;]/div[@class=&quot;mt-2 fullButtonWrap row&quot;]/div[@class=&quot;text-left fullButton&quot;]/button[@id=&quot;addNewRecordButton&quot;]</value>
+      <webElementGuid>14ecaff5-ba12-4ba4-84ca-ed4ad5503ba9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addNewRecordButton']</value>
+      <webElementGuid>d32e68a9-19f0-48c5-bf7a-420f75c38c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/div[9]/div/button</value>
+      <webElementGuid>2b4e533e-1bfc-4844-ad88-07b00e64a24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/'])[1]/following::button[1]</value>
+      <webElementGuid>b4364b02-68e8-499e-8cbb-6852f149e401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website :'])[1]/following::button[1]</value>
+      <webElementGuid>ea01a085-6247-495d-8609-e5eedc40622d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add To Your Collection'])[1]/preceding::button[1]</value>
+      <webElementGuid>800b2090-662a-4baa-80fe-854a5bde4e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::button[2]</value>
+      <webElementGuid>7af67d73-a895-4a1b-875c-9618333badc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back To Book Store']/parent::*</value>
+      <webElementGuid>e8b9dbeb-3119-4762-a9e1-471928cd8b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/button</value>
+      <webElementGuid>4f18ff32-faff-46a4-a8ba-9cef2e39e849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addNewRecordButton' and @type = 'button' and (text() = 'Back To Book Store' or . = 'Back To Book Store')]</value>
+      <webElementGuid>29422f5a-27ec-450c-b7a5-07fcb78fb55b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

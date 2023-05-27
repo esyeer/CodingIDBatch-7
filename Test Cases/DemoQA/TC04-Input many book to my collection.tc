@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04-Input many book to my collection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70a250b9-37c6-42b3-8ac9-32b40b5a7d40</testCaseGuid>
+</TestCaseEntity>

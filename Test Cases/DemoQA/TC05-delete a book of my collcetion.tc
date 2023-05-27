@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-delete a book of my collcetion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4713e316-656e-4ce2-8b65-290b07acc293</testCaseGuid>
+</TestCaseEntity>

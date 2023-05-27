@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Register WIth Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f075237a-888e-413e-81bb-652fdaf07196</testCaseGuid>
+</TestCaseEntity>

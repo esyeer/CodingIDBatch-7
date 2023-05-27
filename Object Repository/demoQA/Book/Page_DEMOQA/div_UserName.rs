@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UserName</name>
+   <tag></tag>
+   <elementGuidId>1cf174c3-60fa-4dde-aa11-66626e860afc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.col-sm-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='userName-wrapper']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f751c91-ed34-455f-9e7c-e94548d43d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3 col-sm-12</value>
+      <webElementGuid>f5c97ad2-c9d7-4c2a-9919-91f5a6956def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UserName : </value>
+      <webElementGuid>4ea94765-d998-4368-aee8-7663492f431a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userName-wrapper&quot;)/div[@class=&quot;col-md-3 col-sm-12&quot;]</value>
+      <webElementGuid>cd3611b2-714f-4787-b48f-b25ba5546c1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='userName-wrapper']/div</value>
+      <webElementGuid>81380174-8b25-477e-9204-050971887240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login in Book Store'])[1]/following::div[2]</value>
+      <webElementGuid>36808e26-8bd5-41c2-aff0-3588a9268bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome,'])[1]/following::div[2]</value>
+      <webElementGuid>d24dce73-4414-40be-8a5a-ec327cec6569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password :'])[1]/preceding::div[2]</value>
+      <webElementGuid>0cfbfdf8-db59-4c27-b89c-4d2db62ffc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>57ee62d8-132c-4b86-a3f3-5030b368f5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UserName : ' or . = 'UserName : ')]</value>
+      <webElementGuid>3435cd7e-2ce2-4d4a-aa24-771b0208f090</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

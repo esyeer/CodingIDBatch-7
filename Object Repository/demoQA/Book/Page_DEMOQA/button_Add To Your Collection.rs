@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add To Your Collection</name>
+   <tag></tag>
+   <elementGuidId>7caeb94e-1646-41d6-aeef-db4b00bdf201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right.fullButton > #addNewRecordButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='addNewRecordButton'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>691d0129-c0dd-49db-b0b7-76fad72114ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addNewRecordButton</value>
+      <webElementGuid>066697aa-aa30-4dc4-808c-3a52888fb542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e47572f-7ad7-4453-8938-cd424f1cdfd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>0238c117-66d5-4396-bef3-480feb19b6af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add To Your Collection</value>
+      <webElementGuid>58cd01e9-8873-48a0-bcb8-d8e929527ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;books-wrapper&quot;]/div[@class=&quot;profile-wrapper&quot;]/div[@class=&quot;mt-2 fullButtonWrap row&quot;]/div[@class=&quot;text-right fullButton&quot;]/button[@id=&quot;addNewRecordButton&quot;]</value>
+      <webElementGuid>8c55f9d4-d424-44a9-bdd1-480bd10bf2ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='addNewRecordButton'])[2]</value>
+      <webElementGuid>3f997472-41f2-4673-b29d-321c58e6ce01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/div[9]/div[2]/button</value>
+      <webElementGuid>76448bb7-e771-46e1-80a6-c77483abcc1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back To Book Store'])[1]/following::button[1]</value>
+      <webElementGuid>b96b90d6-ede5-4f62-9f3e-4f8d6437ddc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/'])[1]/following::button[2]</value>
+      <webElementGuid>03bf6a1d-9808-4f80-b978-7666933ef1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::button[1]</value>
+      <webElementGuid>7ebb6fd6-9a9c-4f16-b2a2-57c5e55d93d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add To Your Collection']/parent::*</value>
+      <webElementGuid>e5f6c45e-73f3-4913-8f0d-12e6be5b9421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>83ae65b6-bc75-4a5b-b7b8-a46f73c07508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addNewRecordButton' and @type = 'button' and (text() = 'Add To Your Collection' or . = 'Add To Your Collection')]</value>
+      <webElementGuid>8fb879ff-a48a-4387-9598-d8d9ac88059c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
