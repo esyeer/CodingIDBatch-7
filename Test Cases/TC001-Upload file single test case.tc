@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Upload file single test case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcf1e06b-71d6-4720-a4ac-8a3e3d92de62</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7717f2d-6151-4a11-9366-84026eadf342</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7717f2d-6151-4a11-9366-84026eadf342</id>
+      <masked>false</masked>
+      <name>outputFile</name>
+   </variable>
+</TestCaseEntity>

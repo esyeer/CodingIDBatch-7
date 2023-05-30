@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Upload File Using Data Driven Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee4bde7c-f4dd-49c7-ae7a-2a2cc60dde08</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2c80ea1-3e1e-4802-a386-e7d84b3cf38e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d2c80ea1-3e1e-4802-a386-e7d84b3cf38e</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+</TestCaseEntity>
