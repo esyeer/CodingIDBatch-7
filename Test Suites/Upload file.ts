@@ -18,16 +18,16 @@
       <testCaseId>Test Cases/TC002-Upload File Using Data Driven Testing</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>44700c19-fbea-404e-8a6f-319250b7c81c</id>
+         <id>6c01a9e0-fe12-47c2-aa53-2e0fb1317269</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/filepath</testDataId>
+         <testDataId>Data Files/Data File</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>44700c19-fbea-404e-8a6f-319250b7c81c</testDataLinkId>
+         <testDataLinkId>6c01a9e0-fe12-47c2-aa53-2e0fb1317269</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>filePath</value>
          <variableId>d2c80ea1-3e1e-4802-a386-e7d84b3cf38e</variableId>
