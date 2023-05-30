@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Upload file,Chrome 113.0.0.0,,,2023-05-30 16:54:09,2023-05-30 16:54:40,30.677s,PASSED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 16:54:10,2023-05-30 16:54:21,11.018s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 16:54:10,2023-05-30 16:54:12,2.341s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 16:54:12,2023-05-30 16:54:17,4.665s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), file)",Chrome 113.0.0.0,,,2023-05-30 16:54:17,2023-05-30 16:54:18,0.815s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 16:54:18,2023-05-30 16:54:20,1.884s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/div_Quality Assurance 7.png""))",Chrome 113.0.0.0,,,2023-05-30 16:54:20,2023-05-30 16:54:20,0.550s,PASSED
+"verifyTextPresent(""File Uploaded!"", false)",Chrome 113.0.0.0,,,2023-05-30 16:54:20,2023-05-30 16:54:21,0.389s,PASSED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 16:54:21,2023-05-30 16:54:30,9.065s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 16:54:21,2023-05-30 16:54:23,2.060s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 16:54:23,2023-05-30 16:54:26,3.485s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), file)",Chrome 113.0.0.0,,,2023-05-30 16:54:26,2023-05-30 16:54:27,0.516s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 16:54:27,2023-05-30 16:54:29,2.192s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/div_Quality Assurance 7.png""))",Chrome 113.0.0.0,,,2023-05-30 16:54:29,2023-05-30 16:54:29,0.438s,PASSED
+"verifyTextPresent(""File Uploaded!"", false)",Chrome 113.0.0.0,,,2023-05-30 16:54:29,2023-05-30 16:54:30,0.349s,PASSED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 16:54:30,2023-05-30 16:54:40,10.216s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 16:54:30,2023-05-30 16:54:32,1.953s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 16:54:32,2023-05-30 16:54:36,4.629s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), file)",Chrome 113.0.0.0,,,2023-05-30 16:54:36,2023-05-30 16:54:37,0.521s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 16:54:37,2023-05-30 16:54:39,1.887s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/div_Quality Assurance 7.png""))",Chrome 113.0.0.0,,,2023-05-30 16:54:39,2023-05-30 16:54:39,0.439s,PASSED
+"verifyTextPresent(""File Uploaded!"", false)",Chrome 113.0.0.0,,,2023-05-30 16:54:39,2023-05-30 16:54:40,0.775s,PASSED

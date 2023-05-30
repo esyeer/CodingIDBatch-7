@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Upload file,Chrome 113.0.0.0,,,2023-05-30 17:02:11,2023-05-30 17:02:36,24.899s,PASSED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 17:02:12,2023-05-30 17:02:20,8.682s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 17:02:12,2023-05-30 17:02:14,2.369s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 17:02:14,2023-05-30 17:02:18,3.022s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 17:02:18,2023-05-30 17:02:18,0.600s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 17:02:18,2023-05-30 17:02:20,1.984s,PASSED
+"verifyTextPresent(""File Uploaded!"", false)",Chrome 113.0.0.0,,,2023-05-30 17:02:20,2023-05-30 17:02:20,0.398s,PASSED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 17:02:21,2023-05-30 17:02:29,8.171s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 17:02:21,2023-05-30 17:02:22,1.916s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 17:02:22,2023-05-30 17:02:27,4.547s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 17:02:27,2023-05-30 17:02:28,0.556s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 17:02:28,2023-05-30 17:02:28,0.787s,PASSED
+"verifyTextPresent(""File Uploaded!"", false)",Chrome 113.0.0.0,,,2023-05-30 17:02:28,2023-05-30 17:02:29,0.338s,PASSED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 17:02:29,2023-05-30 17:02:36,7.648s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 17:02:29,2023-05-30 17:02:31,1.882s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 17:02:31,2023-05-30 17:02:35,3.882s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 17:02:35,2023-05-30 17:02:35,0.409s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 17:02:35,2023-05-30 17:02:36,1.106s,PASSED
+"verifyTextPresent(""File Uploaded!"", false)",Chrome 113.0.0.0,,,2023-05-30 17:02:36,2023-05-30 17:02:36,0.357s,PASSED

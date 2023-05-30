@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Upload file,Chrome 113.0.0.0,,,2023-05-30 16:59:07,2023-05-30 16:59:26,19.427s,ERROR
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 16:59:07,2023-05-30 16:59:13,6.314s,ERROR
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 16:59:07,2023-05-30 16:59:09,2.219s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 16:59:09,2023-05-30 16:59:13,3.113s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), findTestData(""filepath"").getValue(filePath, filePath))",Chrome 113.0.0.0,,,2023-05-30 16:59:13,2023-05-30 16:59:13,0.688s,ERROR
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 16:59:13,2023-05-30 16:59:21,7.473s,ERROR
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 16:59:13,2023-05-30 16:59:15,1.820s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 16:59:15,2023-05-30 16:59:21,5.554s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), findTestData(""filepath"").getValue(filePath, filePath))",Chrome 113.0.0.0,,,2023-05-30 16:59:21,2023-05-30 16:59:21,0.083s,ERROR
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 16:59:21,2023-05-30 16:59:26,5.279s,ERROR
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 16:59:21,2023-05-30 16:59:23,1.974s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 16:59:23,2023-05-30 16:59:26,3.205s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), findTestData(""filepath"").getValue(filePath, filePath))",Chrome 113.0.0.0,,,2023-05-30 16:59:26,2023-05-30 16:59:26,0.085s,ERROR
