@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Upload file,Chrome 113.0.0.0,,,2023-05-30 20:56:54,2023-05-30 20:57:16,21.440s,FAILED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 20:56:55,2023-05-30 20:57:03,8.240s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:56:55,2023-05-30 20:56:58,3.260s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:56:58,2023-05-30 20:57:02,3.733s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 20:57:02,2023-05-30 20:57:03,0.567s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 20:57:03,2023-05-30 20:57:03,0.196s,FAILED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 20:57:03,2023-05-30 20:57:09,6.472s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:57:03,2023-05-30 20:57:05,2.170s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:57:05,2023-05-30 20:57:09,3.637s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 20:57:09,2023-05-30 20:57:09,0.501s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 20:57:09,2023-05-30 20:57:09,0.144s,FAILED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 20:57:09,2023-05-30 20:57:16,6.273s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:57:09,2023-05-30 20:57:11,1.999s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:57:11,2023-05-30 20:57:15,3.564s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 20:57:15,2023-05-30 20:57:15,0.568s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 20:57:15,2023-05-30 20:57:16,0.131s,FAILED

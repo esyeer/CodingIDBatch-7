@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Upload file,Chrome 113.0.0.0,,,2023-05-30 20:53:09,2023-05-30 20:53:29,19.883s,FAILED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 20:53:09,2023-05-30 20:53:17,7.937s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:53:09,2023-05-30 20:53:13,3.153s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:53:13,2023-05-30 20:53:16,3.666s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 20:53:16,2023-05-30 20:53:17,0.532s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 20:53:17,2023-05-30 20:53:17,0.168s,FAILED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 20:53:17,2023-05-30 20:53:24,7.430s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:53:17,2023-05-30 20:53:19,1.984s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:53:19,2023-05-30 20:53:24,4.736s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 20:53:24,2023-05-30 20:53:24,0.553s,PASSED
+"click(findTestObject(""Object Repository/The Internet/Page_The Internet/btn-submit""))",Chrome 113.0.0.0,,,2023-05-30 20:53:24,2023-05-30 20:53:24,0.144s,FAILED
+,,,,,,,
+Test Cases/TC002-Upload File Using Data Driven Testing,Chrome 113.0.0.0,,,2023-05-30 20:53:25,2023-05-30 20:53:29,4.015s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:53:25,2023-05-30 20:53:27,2.386s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:53:27,2023-05-30 20:53:28,1.390s,PASSED
+"uploadFile(findTestObject(""The Internet/Page_The Internet/upload-file""), filePath)",Chrome 113.0.0.0,,,2023-05-30 20:53:28,2023-05-30 20:53:29,0.216s,FAILED
