@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-Upload file drag and Drop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>641f081f-f90a-4e86-820b-2cd9550591a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3cce7f7a-f50d-47af-b89b-b5083bec1a49</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3cce7f7a-f50d-47af-b89b-b5083bec1a49</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+</TestCaseEntity>
